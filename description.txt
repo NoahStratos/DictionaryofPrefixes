@@ -1,0 +1,5 @@
+A small mod that uses 71 adjectives/words to embellish the prefix/modifier system.
+
+Also redevelops the way accessories are reforge to closely resemble the extense of the weapon prefix/modifier selection. Please note this mean accessories can now roll negative modifiers/prefixes.
+
+Translations are accepted. Currently supported languages include English and Polish.
